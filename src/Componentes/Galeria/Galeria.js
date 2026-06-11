@@ -21,11 +21,11 @@ const Galeria = () => {
       <div className="card"><img src={`${process.env.PUBLIC_URL}/img/Rafting.jpeg`} alt="foto15" /></div>
       <div className="card"><img src={`${process.env.PUBLIC_URL}/img/patasplaya.jpeg`} alt="foto16" /></div>
       <div className="card"><img src={`${process.env.PUBLIC_URL}/img/NostrosIA.jpeg`} alt="foto17" /></div>
-      <div className="card"><img src={`${process.env.PUBLIC_URL}/img/patasanuevo.jpeg`} alt="foto18" /></div>
+      <div className="card"><img src={`${process.env.PUBLIC_URL}/img/patasañonuevo.jpeg`} alt="foto18" /></div>
       <div className="card"><img src={`${process.env.PUBLIC_URL}/img/kustman.jpeg`} alt="foto19" /></div>
       <div className="card"><img src={`${process.env.PUBLIC_URL}/img/gorrolentes.jpeg`} alt="foto20" /></div>
-      <div className="card"><img src={`${process.env.PUBLIC_URL}/img/fotoyjoycaro.jpeg`} alt="foto21" /></div>
-      <div className="card"><img src={`${process.env.PUBLIC_URL}/img/fotolabajo.jpeg`} alt="foto22" /></div>
+      <div className="card"><img src={`${process.env.PUBLIC_URL}/img/fotoyioycaro.jpeg`} alt="foto21" /></div>
+      <div className="card"><img src={`${process.env.PUBLIC_URL}/img/fototlabajo.jpeg`} alt="foto22" /></div>
       <div className="card"><img src={`${process.env.PUBLIC_URL}/img/fotosuffle.jpeg`} alt="foto23" /></div>
       <div className="card"><img src={`${process.env.PUBLIC_URL}/img/fotoplayacomia.jpeg`} alt="foto24" /></div>
     </section>
