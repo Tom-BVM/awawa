@@ -132,7 +132,7 @@ const Sorpresa = () => {
           <div className="modal abrir">
             <button className="cerrar" onClick={() => setShowGift(false)}>✖</button>
             <h3>🎉 ¡Sorpresa! 🎉</h3>
-            <img src="/img/EntradasBTS.jpeg" alt="Entradas BTS" className="gift-img" />
+            <img src={`${process.env.PUBLIC_URL}/img/EntradasBTS.jpeg`} alt="Entradas BTS" className="gift-img" />
             <p>
               Este es tu regalo sorpresa mi awawa 💖, no encontré otra forma más divertida de dártelo que de esta manera,  
               y quería que fuera sorpresa para hacerte el día más feliz aún.  
