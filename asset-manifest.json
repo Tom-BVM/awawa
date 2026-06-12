@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/awawa/static/css/main.689534fb.css",
-    "main.js": "/awawa/static/js/main.0dd92188.js",
+    "main.js": "/awawa/static/js/main.cba73346.js",
     "index.html": "/awawa/index.html",
     "main.689534fb.css.map": "/awawa/static/css/main.689534fb.css.map",
-    "main.0dd92188.js.map": "/awawa/static/js/main.0dd92188.js.map"
+    "main.cba73346.js.map": "/awawa/static/js/main.cba73346.js.map"
   },
   "entrypoints": [
     "static/css/main.689534fb.css",
-    "static/js/main.0dd92188.js"
+    "static/js/main.cba73346.js"
   ]
 }
