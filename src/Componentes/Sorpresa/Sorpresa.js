@@ -32,7 +32,7 @@ const Sorpresa = () => {
   const [showGift, setShowGift] = useState(false);
   const [errorModal, setErrorModal] = useState(false);
 
-  const targetTime = new Date("2026-06-11T22:00:00");
+  const targetTime = new Date("2026-06-11T22:20:00");
 
   useEffect(() => {
     const interval = setInterval(() => {
